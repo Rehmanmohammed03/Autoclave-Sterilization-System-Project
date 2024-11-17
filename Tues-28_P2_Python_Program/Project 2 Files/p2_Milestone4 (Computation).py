@@ -30,10 +30,11 @@ update_thread = repeating_timer(2, update_sim)
 
 '''
 1P13 Project 2
-Dec 2nd, 2020
+Dec 2nd, 2021
 Tues-28 Computing subteam:
     Luigi Quattrociocchi (quattrl)
     Hetash Rattu (rattuh)
+    Rehman Mohammed (mohamr49)
 '''
 
 
